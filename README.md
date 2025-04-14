@@ -1,2 +1,0 @@
-# ShopManager
-ShopManager
